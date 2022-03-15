@@ -3,6 +3,10 @@
 var time = [
     {9,10,11,12,1,2,3,4,5,6,19,20}
 ]
+//Variables
+var $jumbotron = $('.jumbotron')
+var index = 0;
+
 // THEN the current day is displayed at the top of the calendar
 function currentDay() {
 
@@ -22,7 +26,8 @@ function enterEvent() {
 }
 // WHEN I click the save button for that timeblock
 // THEN the text for that event is saved in local storage
-function saveEvent() {
+
+saveBtn
     // localStorage.saveEvent
 }
 
