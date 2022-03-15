@@ -31,9 +31,9 @@ The following animation demonstrates the application functionality:
 
 ## Contributions
 
-Eugene
-Dev wuf
-Jasmine B
+- Eugene
+- Dev wuf
+- Jasmine B
 
 ## licensing
 
