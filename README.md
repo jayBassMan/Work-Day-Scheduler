@@ -27,6 +27,7 @@ The following animation demonstrates the application functionality:
 - Eugene
 - Dev wuf
 - Jasmine B
+- Mengmei Tu
 
 ## licensing
 

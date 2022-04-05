@@ -35,7 +35,7 @@ function save() {
     });
 }
 
-//function eachHour() stored int function timeColor()
+//function eachHour() stored in function timeColor()
 function eachHour() {
     const hour = moment().hours();
 
