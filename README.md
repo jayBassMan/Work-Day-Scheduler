@@ -18,8 +18,9 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./img/05-third-party-apis-homework-demo.gif)
 
-![]()
-![]()
+![](./assets/img/Screen%20Shot%202022-04-05%20at%2012.37.37%20AM.png)
+
+![](./assets/img/Screen%20Shot%202022-04-05%20at%2012.54.50%20AM.png)
 
 ## Contributions
 

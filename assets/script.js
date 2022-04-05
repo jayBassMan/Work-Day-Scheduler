@@ -39,17 +39,19 @@ function save() {
 function eachHour() {
     const hour = moment().hours();
 
-    $(".time-zone"),
-        each(function () {
-            var currentHour = parseInt($(this).attr("id"));
-            if (currentHour > hour) {
-                $(this).addClass("futureHendricks");
-            } else if (currentHour === hour) {
-                $(this), addClass("present");
-            } else {
-                $(this).addClass("past");
-            }
-        });
+    $(".time-zone").each(function () {
+
+        var currentHour = parseInt($(this).attr("id"));
+
+        
+        if (currentHour > hour) {
+            $(this).addClass("futureHendricks");
+        } else if (currentHour === hour) {
+            $(this).addClass("present");
+        } else {
+            $(this).addClass("past");
+        }
+    });
 }
 
 timeColor();
